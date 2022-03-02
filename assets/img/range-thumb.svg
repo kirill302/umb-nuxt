@@ -1,0 +1,18 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Button">
+<rect width="24" height="24" rx="12" fill="url(#paint0_linear_398_458)"/>
+<g id="Button_select">
+<rect x="4" y="4" width="16" height="16" rx="8" fill="url(#paint1_radial_398_458)"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_398_458" x1="-8.97196" y1="-32.5714" x2="38.7977" y2="-13.5591" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F43837"/>
+<stop offset="1" stop-color="#527FE1"/>
+</linearGradient>
+<radialGradient id="paint1_radial_398_458" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(15 -8.33333) rotate(87.9472) scale(37.3097 68.2719)">
+<stop stop-color="#242A3E"/>
+<stop offset="1" stop-color="#0F171E" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>

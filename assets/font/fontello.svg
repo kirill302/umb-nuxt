@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2021 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="password-star-9" unicode="&#x2a;" d="M455 329l-156 46 24 78 156-57-5 177h79l-5-180 153 57 24-79-159-47 103-140-64-48-96 148-93-145-65 47 104 143z" horiz-adv-x="1000" />
+
+<glyph glyph-name="password-star-8" unicode="&#xb7;" d="M455 329l-156 46 24 78 156-57-5 177h79l-5-180 153 57 24-79-159-47 103-140-64-48-96 148-93-145-65 47 104 143z" horiz-adv-x="1000" />
+
+<glyph glyph-name="password-star-6" unicode="&#x2022;" d="M455 329l-156 46 24 78 156-57-5 177h79l-5-180 153 57 24-79-159-47 103-140-64-48-96 148-93-145-65 47 104 143z" horiz-adv-x="1000" />
+
+<glyph glyph-name="password-star-7" unicode="&#x2024;" d="M455 329l-156 46 24 78 156-57-5 177h79l-5-180 153 57 24-79-159-47 103-140-64-48-96 148-93-145-65 47 104 143z" horiz-adv-x="1000" />
+
+<glyph glyph-name="password-star-5" unicode="&#x20f0;" d="M455 329l-156 46 24 78 156-57-5 177h79l-5-180 153 57 24-79-159-47 103-140-64-48-96 148-93-145-65 47 104 143z" horiz-adv-x="1000" />
+
+<glyph glyph-name="password-star-4" unicode="&#x2219;" d="M455 329l-156 46 24 78 156-57-5 177h79l-5-180 153 57 24-79-159-47 103-140-64-48-96 148-93-145-65 47 104 143z" horiz-adv-x="1000" />
+
+<glyph glyph-name="password-star-3" unicode="&#x25cf;" d="M455 329l-156 46 24 78 156-57-5 177h79l-5-180 153 57 24-79-159-47 103-140-64-48-96 148-93-145-65 47 104 143z" horiz-adv-x="1000" />
+
+<glyph glyph-name="password-star-1" unicode="&#x25d8;" d="M455 329l-156 46 24 78 156-57-5 177h79l-5-180 153 57 24-79-159-47 103-140-64-48-96 148-93-145-65 47 104 143z" horiz-adv-x="1000" />
+
+<glyph glyph-name="password-star-2" unicode="&#x25d9;" d="M455 329l-156 46 24 78 156-57-5 177h79l-5-180 153 57 24-79-159-47 103-140-64-48-96 148-93-145-65 47 104 143z" horiz-adv-x="1000" />
+
+<glyph glyph-name="password-star" unicode="&#x25e6;" d="M455 329l-156 46 24 78 156-57-5 177h79l-5-180 153 57 24-79-159-47 103-140-64-48-96 148-93-145-65 47 104 143z" horiz-adv-x="1000" />
+
+<glyph glyph-name="password-star-14" unicode="&#x26ab;" d="M455 329l-156 46 24 78 156-57-5 177h79l-5-180 153 57 24-79-159-47 103-140-64-48-96 148-93-145-65 47 104 143z" horiz-adv-x="1000" />
+
+<glyph glyph-name="password-star-10" unicode="&#xe814;" d="M455 329l-156 46 24 78 156-57-5 177h79l-5-180 153 57 24-79-159-47 103-140-64-48-96 148-93-145-65 47 104 143z" horiz-adv-x="1000" />
+
+<glyph glyph-name="password-star-11" unicode="&#xe815;" d="M455 329l-156 46 24 78 156-57-5 177h79l-5-180 153 57 24-79-159-47 103-140-64-48-96 148-93-145-65 47 104 143z" horiz-adv-x="1000" />
+
+<glyph glyph-name="password-star-12" unicode="&#xe816;" d="M455 329l-156 46 24 78 156-57-5 177h79l-5-180 153 57 24-79-159-47 103-140-64-48-96 148-93-145-65 47 104 143z" horiz-adv-x="1000" />
+
+<glyph glyph-name="password-star-13" unicode="&#xe817;" d="M455 329l-156 46 24 78 156-57-5 177h79l-5-180 153 57 24-79-159-47 103-140-64-48-96 148-93-145-65 47 104 143z" horiz-adv-x="1000" />
+
+<glyph glyph-name="password-star-15" unicode="&#xe818;" d="M455 329l-156 46 24 78 156-57-5 177h79l-5-180 153 57 24-79-159-47 103-140-64-48-96 148-93-145-65 47 104 143z" horiz-adv-x="1000" />
+
+<glyph glyph-name="password-star-16" unicode="&#xe819;" d="M455 329l-156 46 24 78 156-57-5 177h79l-5-180 153 57 24-79-159-47 103-140-64-48-96 148-93-145-65 47 104 143z" horiz-adv-x="1000" />
+
+<glyph glyph-name="password-star-17" unicode="&#xe81a;" d="M455 329l-156 46 24 78 156-57-5 177h79l-5-180 153 57 24-79-159-47 103-140-64-48-96 148-93-145-65 47 104 143z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>
